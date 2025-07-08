@@ -15,7 +15,7 @@ Let's build something impactful! 🚀
 <table>
   <tr>
     <td width="160">
-      <img src="screenshots/sql_logo.png" width="150" alt="SQL Logo"/>
+      <img src="screenshots/sql-logo.png" width="150" alt="SQL Logo"/>
     </td>
     <td>
       <h4><a href="https://github.com/sadikurbevy/sql-learning-project">SQL Learning Project</a></h4>
