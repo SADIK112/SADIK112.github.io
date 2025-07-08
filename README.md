@@ -9,3 +9,17 @@ Hi! I'm **Sadikur Rahman**, a passionate full-stack developer and lifelong learn
 - 🌐 Website: [sadikurrahman.dev](https://sadik112.github.io/)
 
 Let's build something impactful! 🚀
+
+## 🧩 Projects
+
+<table>
+  <tr>
+    <td width="160">
+      <img src="screenshots/sql_logo.png" width="150" alt="SQL Logo"/>
+    </td>
+    <td>
+      <h4><a href="https://github.com/sadikurbevy/sql-learning-project">SQL Learning Project</a></h4>
+      A structured learning journey where I solve real-world SQL queries using the Brazilian E-Commerce (Olist) dataset. Includes beginner to advanced queries, insights, and visuals.
+    </td>
+  </tr>
+</table>
